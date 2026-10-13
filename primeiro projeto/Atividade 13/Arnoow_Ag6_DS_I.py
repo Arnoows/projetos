@@ -9,4 +9,3 @@ elif valor >= 200 and valor < 300:
 elif valor >= 300:
     desconto = valor * 0.15
     print (f"O desconto aplicado é de R$ {desconto:.2f}")
-
